@@ -10,3 +10,15 @@ margin: 20px;
 padding: 20px;
 font-size: 32px ;
 }
+
+section{
+   background: rgb(213, 0, 0, 1);
+   padding-bottom: 40px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+}
+
+.chamada-texto {
+   margin-right: 5%;
+}
